@@ -5,6 +5,7 @@
     src:local('SEGA LOGO FONT'),url('SEGA.TTF') format('TTF')
 }
 h1{
+    margin-top: 20px;
     font-family: 'SEGA LOGO FONT';
     color:aqua;
     font-weight: 200;

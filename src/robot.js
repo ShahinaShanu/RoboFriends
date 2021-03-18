@@ -48,6 +48,16 @@ export const robots=[
     id:10,
     roboname:'shahu',
     email:'shanu@gmail.com'
+},
+{
+    id:11,
+    roboname:'shahu',
+    email:'shanu@gmail.com'
+},
+{
+    id:12,
+    roboname:'shahu',
+    email:'shanu@gmail.com'
 }
 
 ];
